@@ -1,0 +1,40 @@
+#parent {
+    border: 3px solid red;
+    width: 100%vw;
+    height:100%vh ;
+}
+.first{
+    border: 2px solid black;
+    width: 50%vh;
+    height: 50%vh;
+    display: inline-block;
+    margin-left: 45%;
+}
+
+.second{
+
+    border: 2px solid black;
+    width: 50%vh;
+    height: 50%vh;
+    display: inline-block;
+    
+
+}
+
+.third{
+
+
+    border: 2px solid black;
+    width: 50%vh;
+    height: 50%vh;
+    display: inline-block;
+
+}
+
+.fourth{
+
+    border: 2px solid black;
+    width: 50%vh;
+    height: 50%vh;
+    display: inline-block;
+}
